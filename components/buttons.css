@@ -29,10 +29,8 @@
 .btn--raised {
     background-color: var(--primary);
     color: var(--black);
-    padding: 12px 53px 12px 24px;
-    background-image: url("assets/arrow-right.svg");
-    background-repeat: no-repeat;
-    background-position: right 20px center;
+    padding: 12px 24px;
+    text-align: center;
 }
 .btn--line {
     color: var(--text-color);
